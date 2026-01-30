@@ -36,8 +36,8 @@ Download and run in google colab
 * Dr. Anupama Ray
 
 **Mentees:**
-* Deenathayalan A(https://github.com/elpanthyr)
-* Abdullah K(https:github.com/AbdullahKazi500)
+* [Deenathayalan A](https://github.com/elpanthyr)
+* [Abdullah K](https:github.com/AbdullahKazi500)
 
 ## Acknowledgements
 This work was conducted as part of the Qiskit Advocates Mentorship Program (QAMP) 2025.
